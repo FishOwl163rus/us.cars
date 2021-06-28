@@ -35,6 +35,11 @@
     transform: rotate(210deg);
 }
 
+.row-100 .col .card{
+    height: 100%;
+    width: 100%;
+}
+
 
 .pulse {
     -webkit-animation-name: pulse;

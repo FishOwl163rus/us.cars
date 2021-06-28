@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8999dbb7-aad8-4efc-a89e-a7f1318a3418" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/sell.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/sell2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/sell3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/images/sell4.jpg" afterDir="false" />
+    <list default="true" id="8999dbb7-aad8-4efc-a89e-a7f1318a3418" name="Default Changelist" comment="testing media">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/css/rate.css" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/css/rate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwwroot/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +87,7 @@
       <workItem from="1624635330152" duration="1197000" />
       <workItem from="1624778866872" duration="1331000" />
       <workItem from="1624815254595" duration="6153000" />
-      <workItem from="1624914376372" duration="2245000" />
+      <workItem from="1624914376372" duration="2904000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1624824280950</created>
@@ -101,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624824280950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testing media">
+      <created>1624916673843</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624916673843</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="testing media" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing media" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1624404762475">
@@ -151,9 +154,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624404764269" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1624824284456">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1624916764004">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624824284456" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624916764004" />
   </component>
 </project>
