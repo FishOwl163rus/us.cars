@@ -147,12 +147,14 @@
 @media screen and (max-width: 1285px) {
     .cards-wrapper {
         grid-template-columns: 1fr 1fr;
+        display: block;
     }
 }
 
 @media screen and (max-width: 900px) {
     .cards-wrapper {
         grid-template-columns: 1fr;
+        display: block;
     }
     .info {
         justify-content: center;
@@ -166,6 +168,7 @@
 @media screen and (max-width: 500px) {
     .cards-wrapper {
         padding: 4rem 2rem;
+        display: block;
     }
     .card-rate {
         max-width: calc(100vw - 4rem);
