@@ -40,6 +40,15 @@
     width: 100%;
 }
 
+.carousel-inner .carousel-item img {
+    filter: blur(3px);
+}
+
+.override-caption {
+    display: block;
+    margin: 0 auto;
+}
+
 
 .pulse {
     -webkit-animation-name: pulse;
