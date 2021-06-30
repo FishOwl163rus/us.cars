@@ -10,6 +10,28 @@
     <link rel="stylesheet" href="wwwroot/css/card.css"/>
 </head>
 <body>
+<div class="modal fade" id="reference_modal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header ">
+                <h5 id="reference_title" class="modal-title"></h5>
+                <button type="button" onclick="toggleRefModal()" class="btn-close" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="reference_submit">
+                    <div id="reference_content">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer justify-content-start">
+                <button id="reference_btn" form="reference_submit" type="submit" class="btn btn-primary">
+                    Подтвердить
+                </button>
+                <div id="info_msg_ref"></div>
+            </div>
+        </div>
+    </div>
+</div>
 <header>
     <nav class="py-2 bg-light border-bottom">
         <div class="container d-flex flex-wrap">
@@ -70,7 +92,7 @@
                 <h1 class="display-5 fw-bold lh-1 mb-3">Авто из США с экономией до 40% от рыночной стоимости</h1>
                 <p class="lead">Мы оказываем помощь в регистрации на крупнейших аукционах COPART и IAAI , поможем купить авто на закрытых аукционах без дополнительных затрат. Вы можете самостоятельно участвовать в торгах в реальном времени!</p>
                 <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-                    <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">Подобрать авто</button>
+                    <button type="button" onclick="sendRefModal('Подберем для Вас авто')" class="btn btn-primary btn-lg px-4 me-md-2">Подобрать авто</button>
                     <button type="button" class="btn btn-outline-secondary btn-lg px-4">Постоянным клиентам</button>
                 </div>
             </div>

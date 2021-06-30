@@ -22,7 +22,7 @@
     <list default="true" id="8999dbb7-aad8-4efc-a89e-a7f1318a3418" name="Default Changelist" comment="testing media">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwwroot/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,8 @@
       <workItem from="1624635330152" duration="1197000" />
       <workItem from="1624778866872" duration="1331000" />
       <workItem from="1624815254595" duration="6153000" />
-      <workItem from="1624914376372" duration="8069000" />
+      <workItem from="1624914376372" duration="8561000" />
+      <workItem from="1625062405490" duration="1886000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1624824280950</created>
@@ -110,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624917569586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testing media">
+      <created>1624930265632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624930265632</updated>
+    </task>
+    <task id="LOCAL-00005" summary="testing media">
+      <created>1624930524955</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624930524955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +141,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -161,9 +177,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624404764269" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1624917571309">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1624930526147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624917571309" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624930526147" />
   </component>
 </project>
